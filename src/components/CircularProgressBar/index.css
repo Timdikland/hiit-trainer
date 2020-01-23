@@ -1,0 +1,33 @@
+.circle-background {
+  fill: none;
+}
+
+.circle-background {
+  stroke: #ddd;
+}
+
+.circle-progress-activity {
+  fill: none;
+  stroke: red;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.circle-progress-rest {
+  fill: none;
+  stroke: green;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.circle-text-activity {
+  font-size: 6em;
+  font-weight: bold;
+  fill: red;
+}
+
+.circle-text-rest {
+  font-size: 6em;
+  font-weight: bold;
+  fill: green;
+}
